@@ -1,12 +1,12 @@
 # 🔗 Social Links Profile – Frontend Mentor Challenge
 
-A clean and responsive profile card that displays social media links. This project was built as part of a [Frontend Mentor](https://www.frontendmentor.io) challenge to practice modern HTML and CSS techniques.
+A clean and responsive profile card that displays social media links. 
 
 ## 📸 Preview
 
 ![Profile Preview](./screenshot.png)
 
-➡️ Live site: https://dzik0.github.io/social-links-profile/
+➡️ Live site: https://p-glazowski.github.io/social-links-profile/
 
 ## 🌟 Features
 
@@ -37,7 +37,7 @@ A clean and responsive profile card that displays social media links. This proje
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/social-links-profile.git
+git clone https://github.com/p-glazowski/social-links-profile.git
 ```
 
 2. **Navigate to the project directory:**
@@ -54,9 +54,6 @@ cd social-links-profile
 - Update button links to point to your actual social profiles.
 - Modify styles in `main.css` to personalize the design.
 
-## 🎯 Challenge Info
-
-- Source: [Frontend Mentor – Social links profile](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ)
 
 ## 👤 Author
 
